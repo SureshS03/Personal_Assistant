@@ -8,3 +8,5 @@ VoiceAssistant-Py is a Python-based personal assistant that listens to user quer
 5) Screenshot Capture: Users can command the assistant to take screenshots, simplifying the process for capturing important information.
 
 VoiceAssistant-Py leverages voice recognition and synthesis capabilities to enable seamless communication through voice commands. This project aims to provide a convenient and efficient way for users to interact with their devices using natural language.
+
+Before use this code make sure that you install requirements.txt 
